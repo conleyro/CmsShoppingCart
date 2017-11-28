@@ -43,6 +43,6 @@ C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCa
 C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
 C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
 C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.xml
-C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
 C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
 C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+C:\Users\Rob\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
